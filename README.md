@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Aidan
+Use Grayjay! [https://grayjay.app/](https://grayjay.app/)
 
 <!--
 **AidanG1/AidanG1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
